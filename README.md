@@ -11,7 +11,7 @@ Building - how to start a project, what you need to do;
 Troubleshooting - describes what problems you may encounter and how to solve them;
 
 ## Release Notes
-Release Notes - description of changes depending on the version;Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
+Release Notes - description of changes depending on the version;
 
 ## Authors
 Authors - let's not forget about ourselves;
