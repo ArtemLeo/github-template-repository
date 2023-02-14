@@ -2,27 +2,25 @@ https://javarush.com/groups/posts/2478-optimiziruem-rabotu-so-svoimi-proektami-n
 
 ## Overview
 Repository creates for fast running development process with configuration, which are the same from project to project.
+Overview - a short description of the project;
 
 ## Building
-...
+Building - how to start a project, what you need to do;
 
 ## Troubleshooting
-...
+Troubleshooting - describes what problems you may encounter and how to solve them;
 
 ## Release Notes
-Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
+Release Notes - description of changes depending on the version;Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 
 ## Authors
-* Roman Beskrovnyi - [romankh3](https://github.com/romankh3)
-
-## Acknowledgments
-...
+Authors - let's not forget about ourselves;
 
 ## Contributing
-Please, follow [Contributing](CONTRIBUTING.md) page.
+Contributing is a file describing how you can contribute to this project. Made as a separate file for the Contributing header in the README;
 
 ## Code of Conduct
-Please, follow [Code of Conduct](CODE_OF_CONDUCT.md) page.
+Code of Conduct - a file describing the rules for participating in project development;
 
 ## License
-This project is Apache License 2.0 - see the [LICENSE](LICENSE) file for details
+License - the license under which the project is written. It is necessary so that those who will use the project know what is guaranteed and what is not.
