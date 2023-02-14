@@ -1,3 +1,5 @@
+https://javarush.com/groups/posts/2478-optimiziruem-rabotu-so-svoimi-proektami-na-github-znakomstvo-s-github-template-repository
+
 ## Overview
 Repository creates for fast running development process with configuration, which are the same from project to project.
 
