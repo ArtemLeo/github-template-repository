@@ -1,11 +1,10 @@
 <h1 align>Github Template Repository🖐</h1>
 <h2>🟠Streamlining your projects on GitHub 👇</h2>
-<h3><a href="[https://t.me/MyKnubiSoftTeamBot](https://javarush.com/groups/posts/2478-optimiziruem-rabotu-so-svoimi-proektami-na-github-znakomstvo-s-github-template-repository)"><strong>My-KnubiSoft-Team-Bot »</strong></a></h3>
-
 https://javarush.com/groups/posts/2478-optimiziruem-rabotu-so-svoimi-proektami-na-github-znakomstvo-s-github-template-repository
 
 ## Overview
-Repository creates for fast running development process with configuration, which are the same from project to project.
+There are a lot of things that need to be filled in from time to time, and each time copying is not the programmer's handy, and that's exactly why GitHub released Template Repository feature, which helps in this. So to speak, to automate the process of creating new projects.
+
 Overview - a short description of the project;
 
 ## Building
